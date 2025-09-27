@@ -23,7 +23,7 @@ void OnProjectLoad (void) {
   //
   // User settings
   //
-  File.Open ("$(ProjectDir)/TaskCreationBuild/Chapter_7_TaskCreationBuild.elf");
+  File.Open ("$(ProjectDir)/FailedStartupBuild/Chapter_7_FailedStartupBuild.elf");
   Project.SetOSPlugin ("FreeRTOSPlugin_CM7");
 }
 
