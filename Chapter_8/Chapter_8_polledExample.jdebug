@@ -24,7 +24,7 @@ void OnProjectLoad (void) {
   //
   // User settings
   //
-  File.Open ("$(ProjectDir)/semaphoreExample/Chapter8_SemaphoreExample.elf");
+  File.Open ("$(ProjectDir)/polledExample/Chapter8_polledExample.elf");
 }
 
 /*********************************************************************
