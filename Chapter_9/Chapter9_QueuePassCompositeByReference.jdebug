@@ -22,7 +22,7 @@ void OnProjectLoad (void) {
   //
   // User settings
   //
-  File.Open ("$(ProjectDir)/queueSimplePassByValue/Chapter9_QueueSimplePassByValue.elf");
+  File.Open ("$(ProjectDir)/queueCompositePassByReference/Chapter9_QueuePassCompositeByReference.elf");
 }
 
 /*********************************************************************
