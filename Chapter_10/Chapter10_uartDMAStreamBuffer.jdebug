@@ -22,7 +22,7 @@ void OnProjectLoad (void) {
   //
   // User settings
   //
-  File.Open ("$(ProjectDir)/uartPolled/Chapter10_uartPolled.elf");
+  File.Open ("$(ProjectDir)/uartDMAStreamBuffer/Chapter10_uartDMAStreamBuffer.elf");
 }
 
 /*********************************************************************
