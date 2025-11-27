@@ -22,7 +22,7 @@ void OnProjectLoad (void) {
   //
   // User settings
   //
-  File.Open ("$(ProjectDir)/rawCDC/Chapter11_rawCDC.elf");
+  File.Open ("$(ProjectDir)/VirtualCommStreamBuffer/Chapter11_VirtualCommStreamBuffer.elf");
 }
 
 /*********************************************************************
