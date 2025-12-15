@@ -1,0 +1,9 @@
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_utils.c:42:8:UTILS_strnlen	0	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_utils.c:163:6:UTILS_NanosecondsToTimespec	8	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_utils.c:185:5:UTILS_TimespecAdd	12	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_utils.c:227:5:UTILS_TimespecAddNanoseconds	16	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_utils.c:323:5:UTILS_TimespecCompare	16	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_utils.c:268:5:UTILS_TimespecSubtract	16	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_utils.c:371:6:UTILS_ValidateTimespec	0	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_utils.c:103:5:UTILS_TimespecToTicks	16	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_utils.c:62:5:UTILS_AbsoluteTimespecToDeltaTicks	32	static

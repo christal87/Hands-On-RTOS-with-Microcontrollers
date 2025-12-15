@@ -1,0 +1,4 @@
+../Src/main_taskCreation_POSIX.c:75:7:GreenTask	8	static
+../Src/main_taskCreation_POSIX.c:54:5:main	8	static
+../Src/main_taskCreation_POSIX.c:98:6:lookBusy	8	static
+../Src/main_taskCreation_POSIX.c:86:7:RedTask	8	static

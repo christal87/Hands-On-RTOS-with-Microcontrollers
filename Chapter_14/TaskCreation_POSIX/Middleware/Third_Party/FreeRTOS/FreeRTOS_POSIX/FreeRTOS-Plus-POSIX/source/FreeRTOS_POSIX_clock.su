@@ -1,0 +1,7 @@
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:50:9:clock	0	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:59:5:clock_getcpuclockid	0	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:72:5:clock_getres	0	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:90:5:clock_gettime	24	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:122:5:clock_nanosleep	40	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:196:5:clock_settime	0	static
+/home/christal/Documents/prog/Hands-On-RTOS-with-Microcontrollers/Middleware/Third_Party/FreeRTOS/FreeRTOS_POSIX/FreeRTOS-Plus-POSIX/source/FreeRTOS_POSIX_clock.c:212:5:nanosleep	16	static
